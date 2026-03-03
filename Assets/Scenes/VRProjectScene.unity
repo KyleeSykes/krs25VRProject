@@ -938,6 +938,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: a05630563a5db594ab1f3c3f5ccaa802, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 5639969471098559962, guid: e13eb4db598d4bf458060715aa99eee8, type: 3}
     - target: {fileID: 919132149155446097, guid: a05630563a5db594ab1f3c3f5ccaa802, type: 3}
       propertyPath: m_Name
       value: Clothes Hanger 2
@@ -1129,6 +1133,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 76c9501fd901611498426ccaae0d9da9, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -9163178608734398808, guid: df608c9ea6b0aae44be71ac0bfd5cbad, type: 3}
     - target: {fileID: 919132149155446097, guid: 76c9501fd901611498426ccaae0d9da9, type: 3}
       propertyPath: m_Name
       value: Desk Lamp 1
@@ -2355,6 +2363,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 125867121827092653, guid: 86146fe8e1e34124b956c23d5184bc91, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -5383992997832309376, guid: 68196c1c7a12c8e4889d97c03628cef7, type: 3}
     - target: {fileID: 1293667403874984898, guid: 86146fe8e1e34124b956c23d5184bc91, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.2296525
@@ -5579,6 +5591,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 77dbc3acf4ec94b42885d0acb811553f, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: -5383992997832309376, guid: 68196c1c7a12c8e4889d97c03628cef7, type: 3}
     - target: {fileID: 919132149155446097, guid: 77dbc3acf4ec94b42885d0acb811553f, type: 3}
       propertyPath: m_Name
       value: Round Mirror
@@ -7843,6 +7859,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 9f09783467fe5a64c9a7a65c23c99b00, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: -9163178608734398808, guid: df608c9ea6b0aae44be71ac0bfd5cbad, type: 3}
     - target: {fileID: 919132149155446097, guid: 9f09783467fe5a64c9a7a65c23c99b00, type: 3}
       propertyPath: m_Name
       value: Lamp 2
@@ -9427,7 +9447,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1178031927147116294, guid: f44d931be73253742af7f6eaeeabcd28, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.0935328
+      value: -1.16
       objectReference: {fileID: 0}
     - target: {fileID: 1178031927147116294, guid: f44d931be73253742af7f6eaeeabcd28, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9435,7 +9455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1178031927147116294, guid: f44d931be73253742af7f6eaeeabcd28, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4.191016
+      value: -4.3
       objectReference: {fileID: 0}
     - target: {fileID: 1178031927147116294, guid: f44d931be73253742af7f6eaeeabcd28, type: 3}
       propertyPath: m_LocalRotation.w
